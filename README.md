@@ -37,15 +37,18 @@ Candidates List
 
 Candidates list with Search (Options: Id, First name, Last name, College, Skills)
 
+
 ![image](https://user-images.githubusercontent.com/41691630/116663423-b45af780-a9b4-11eb-81b2-9dd1dc5eb774.png)
  
 
 Create Onboard Page (on clicking the Onboard button)
 
+
 ![image](https://user-images.githubusercontent.com/41691630/116663436-b9b84200-a9b4-11eb-8911-152ffbb1b807.png)
  
 
 Successful Onboard Creation
+
 
 ![image](https://user-images.githubusercontent.com/41691630/116663456-c0df5000-a9b4-11eb-9133-1ab2a70730d0.png)
  
