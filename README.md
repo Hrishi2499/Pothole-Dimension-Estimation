@@ -36,10 +36,12 @@ Candidates List
  
 
 Candidates list with Search (Options: Id, First name, Last name, College, Skills)
+
 ![image](https://user-images.githubusercontent.com/41691630/116663423-b45af780-a9b4-11eb-81b2-9dd1dc5eb774.png)
  
 
 Create Onboard Page (on clicking the Onboard button)
+
 ![image](https://user-images.githubusercontent.com/41691630/116663436-b9b84200-a9b4-11eb-8911-152ffbb1b807.png)
  
 
@@ -49,30 +51,37 @@ Successful Onboard Creation
  
 
 Onboardees List Page
+
 ![image](https://user-images.githubusercontent.com/41691630/116663474-c6d53100-a9b4-11eb-9c6e-c31aac20f1c8.png)
 
 
 Onboardees Search (Options: Id, First name, Last Name, Location, Skill, Hiring Manager, Status)
+
 ![image](https://user-images.githubusercontent.com/41691630/116663500-cfc60280-a9b4-11eb-926b-2d51845efe45.png)
  
 
 Update Onboard Page (on clicking the edit button)
+
 ![image](https://user-images.githubusercontent.com/41691630/116663513-d48ab680-a9b4-11eb-810c-48100832b874.png)
 
 
 Delete Onboard (on clicking Delete Button)
+
 ![image](https://user-images.githubusercontent.com/41691630/116663524-d8b6d400-a9b4-11eb-865f-bafbd88d1920.png)
 
 
 Trends (Analytics) Page
+
 ![image](https://user-images.githubusercontent.com/41691630/116663585-f2581b80-a9b4-11eb-923c-10a0267eff28.png)
 
 
 Logs for create, update and delete Onboards
+
 ![image](https://user-images.githubusercontent.com/41691630/116663613-fab05680-a9b4-11eb-9447-085afd9c2036.png)
 
 
 Logs Search (Options: Id, User, Date, Month, Year)
+
 ![image](https://user-images.githubusercontent.com/41691630/116663626-fedc7400-a9b4-11eb-9e99-407df6caf0e3.png)
  
 
